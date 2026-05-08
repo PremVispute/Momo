@@ -20,22 +20,14 @@ export const storyMilestones = [
   },
   {
     id: 2,
-    emoji: "☕",
+    emoji: "🍝",
     date: "Our First Date",
-    title: "Coffee & Butterflies",
+    title: "Pasta & Butterflies",
     description:
       "We talked for hours and I didn't want it to end. You laughed at my terrible jokes and I thought, okay, this is my favorite human.",
   },
   {
     id: 3,
-    emoji: "🌙",
-    date: "A Special Night",
-    title: "Under the Stars",
-    description:
-      "We stayed up talking until 3am and I realized I could listen to your voice forever. That night I knew I was falling hard.",
-  },
-  {
-    id: 4,
     emoji: "💑",
     date: "Official ❤️",
     title: "Finally Ours",
@@ -43,15 +35,16 @@ export const storyMilestones = [
       "The happiest day — when I got to call you mine. I've been smiling ever since and I don't plan on stopping.",
   },
   {
-    id: 5,
-    emoji: "🎂",
-    date: "Your Birthday",
-    title: "Celebrating You",
+    id: 4,
+    emoji: "🌙",
+    date: "A Special Night",
+    title: "Under the Blanket",
     description:
-      "Getting to celebrate you felt like the biggest privilege. You deserve every candle, every wish, every piece of joy.",
+      "We stayed up talking, giggling, doing stuff until 3am and I realized I could listen to your voice forever. That night I knew I was falling hard.",
   },
+  
   {
-    id: 6,
+    id: 5,
     emoji: "🌈",
     date: "Right Now",
     title: "Our Beautiful Now",
@@ -76,15 +69,15 @@ export const reasons = [
 ];
 
 export const photos = [
-  { id: 1, src: null, alt: "Our first selfie together", emoji: "📸" },
-  { id: 2, src: null, alt: "That sunset we watched", emoji: "🌅" },
-  { id: 3, src: null, alt: "Silly faces", emoji: "😜" },
-  { id: 4, src: null, alt: "Our favourite spot", emoji: "🌸" },
-  { id: 5, src: null, alt: "A cozy day in", emoji: "🏠" },
-  { id: 6, src: null, alt: "Adventure together", emoji: "🌍" },
-  { id: 7, src: null, alt: "You being adorable", emoji: "🥰" },
-  { id: 8, src: null, alt: "Us laughing", emoji: "😂" },
-  { id: 9, src: null, alt: "A perfect moment", emoji: "✨" },
+  { id: 1, src: "/img/1.jpeg", alt: "Our first selfie together", emoji: "📸" },
+  { id: 2, src: "/img/2.jpeg", alt: "That sunset we watched", emoji: "🌅" },
+  { id: 3, src: "/img/3.jpeg", alt: "Silly faces", emoji: "😜" },
+  { id: 4, src: "/img/4.jpeg", alt: "Our favourite spot", emoji: "🌸" },
+  { id: 5, src: "/img/5.jpeg", alt: "A cozy day in Mumbai", emoji: "🏠" },
+  { id: 6, src: "/img/6.jpeg", alt: "Adventure together", emoji: "🌍" },
+  { id: 7, src: "/img/7.jpeg", alt: "You being adorable", emoji: "🥰" },
+  { id: 8, src: "/img/8.jpeg", alt: "Us laughing", emoji: "😂" },
+  { id: 9, src: "/img/9.jpeg", alt: "A perfect moment", emoji: "✨" },
 ];
 
 export const loveLetter = {
